@@ -2,7 +2,7 @@
   <div class="mb-5">
     <b-navbar toggleable="lg" type="dark" variant="dark">
       <b-container>
-        <b-navbar-brand href="#">JSDelivr Search</b-navbar-brand>
+        <b-navbar-brand href="/">JSDelivr Search</b-navbar-brand>
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
